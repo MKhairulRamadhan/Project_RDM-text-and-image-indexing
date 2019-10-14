@@ -5,9 +5,14 @@
 ```bash
 $ sudo apt install python3-pip
 ```
-![Image1](/ScreenShot1/1.png)
+![Image1](/Screenshots/1.png)
 
 ### 2. Cara Menjalankan Program :
-1. ```bash $ cd ./image-search-engine```
-2. ```bash $ pip install -r requirements.txt```
-![Image1](/ScreenShot1/2.png)
+1. ``` $ cd ./image-search-engine```
+2. ``` $ pip install -r requirements.txt```
+![Image1](/ScreenShot/3.png)
+3. ``` $ cd ./app```
+4. ``` $ python index.py --dataset static/images --index index.csv ```
+![Image1](/ScreenShot/4.png)
+5. Untuk melihat output dapat dari index.cvs
+![Image1](/ScreenShot/5.png)
