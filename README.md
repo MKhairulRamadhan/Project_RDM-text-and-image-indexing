@@ -9,13 +9,11 @@ $ sudo apt install python3-pip
 
 ### 2. Cara Menjalankan Program :
 
-a.
-```bash
+a.```bash
 $ cd ./image-search-engine
 ```
 
-b.
-```bash
+b.```bash
 $ pip install -r requirements.txt
 ```
 <img src="Screenshots/3.png">
