@@ -5,15 +5,9 @@
 ```bash
 $ sudo apt install python3-pip
 ```
-<img src="Screenshots/1.png">
+![Image1](/ScreenShot1/1.png)
 
 ### 2. Cara Menjalankan Program :
-
-a.```bash
-$ cd ./image-search-engine
-```
-
-b.```bash
-$ pip install -r requirements.txt
-```
-<img src="Screenshots/3.png">
+1. ```bash $ cd ./image-search-engine```
+2. ```bash $ pip install -r requirements.txt```
+![Image1](/ScreenShot1/2.png)
