@@ -1,6 +1,8 @@
 # Projeck_RDM
 
 ## Image-search-engine
+#### Nama : M Khairul Ramadhan
+#### Nim : 1708107010006
 ### 1. Requirements :
 ```
 $ sudo apt install python3-pip
